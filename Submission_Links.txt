@@ -1,0 +1,17 @@
+Team Avengers / Gr10
+Fatih Ridvan Kizik and Dheeraj Erpa
+Target journal: Government Information Quarterly
+
+User-selected historical ChatGPT project link:
+https://chatgpt.com/s/cx_6af1a3c1c4608191b3246cf52ccbfc40
+This historical share does not establish that the current 0.2 review is included. Technical_Review.md contains the current explicit answer.
+
+Repository:
+https://github.com/fatihkizik/atrs-contestability
+New 0.2 release publication pending; do not assume repository root matches this local revision.
+
+Historical Zenodo 0.1 version:
+https://doi.org/10.5281/zenodo.24080972
+New version DOI pending. Do not cite the historical version DOI as identifying the 0.2 files.
+
+Teams: not uploaded or turned in by this revision workflow.

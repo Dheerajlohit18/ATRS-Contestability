@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Cite the specific AI assisted lexical census version; it does not establish actual safeguard availability."
+title: "Contestation wording in UK ATRS records an AI assisted lexical census"
+type: software
+version: "0.2.0-ai-assisted-census"
+date-released: 2026-11-09
+repository-code: "https://github.com/fatihkizik/atrs-contestability"
+license: CC-BY-4.0
+authors:
+  - family-names: Kizik
+    given-names: Fatih Ridvan
+  - family-names: Erpa
+    given-names: Dheeraj
+# No version DOI assigned yet. The 0.1 DOI must not be presented as this release's DOI.

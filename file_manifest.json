@@ -1,0 +1,87 @@
+{
+  "version": "0.2.0-ai-assisted-census",
+  "publication_status": "prepared locally; new public version pending",
+  "original_proposal_sha256": "e220613369d13206fb4fd6116f7419b9f57584e20e790a201c05a5493a43b7aa",
+  "files": [
+    {
+      "path": "ATRS_AI_Assisted_Census.ipynb",
+      "bytes": 1582475,
+      "sha256": "c397909ac1268fd928a8624136f3de71efa9d2b00a32771e717daaea30f9c8a6"
+    },
+    {
+      "path": "ATRS_Kaggle_Input.zip",
+      "bytes": 5570147,
+      "sha256": "6e7314224db0f7180092ce0f60ee8791bdf7d58a205c6413541a7cb1558c08dc"
+    },
+    {
+      "path": "ATRS_results_ai_assisted_census.zip",
+      "bytes": 1679844,
+      "sha256": "fb43c67020b7dded5e31df09cdbe2c7fed6a4fed4fad990308107ff757614f87"
+    },
+    {
+      "path": "Assignment_Compliance.md",
+      "bytes": 1495,
+      "sha256": "c964009be4e1e20228f405b45325f30984119bca1046c444e4c9b68dbd2710d5"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 580,
+      "sha256": "d71a50eb0a3b41980c95a17d67792b86d50a636f0ae9db96923f335bf6659e4b"
+    },
+    {
+      "path": "Census_Validation.json",
+      "bytes": 1613,
+      "sha256": "6bb81d3ee9e35a97f62623a8df5f57356c3e154f1f671554a1c497bfcd10002b"
+    },
+    {
+      "path": "Linked_Guidance_Archive.zip",
+      "bytes": 237463,
+      "sha256": "805cb7734c14be17dac558e3fb307babfb2a0ab8cb94462998815f0b54e9e5af"
+    },
+    {
+      "path": "Original_Research_Proposal.docx",
+      "bytes": 458076,
+      "sha256": "e220613369d13206fb4fd6116f7419b9f57584e20e790a201c05a5493a43b7aa"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4481,
+      "sha256": "d5de962d382a9980db52930f0a412d84fb826c0ad58d772485fad503ade00ac6"
+    },
+    {
+      "path": "RIGHTS.md",
+      "bytes": 772,
+      "sha256": "7ce50a7696f8f343611cd2880fcde721a31ec065d3ec75056192310aafddc2eb"
+    },
+    {
+      "path": "Submission_Links.txt",
+      "bytes": 738,
+      "sha256": "4d6becb1f39bce2638195794e28d863eaaca72c579ee09fa53e67b2075fc87cb"
+    },
+    {
+      "path": "Target_Journal.txt",
+      "bytes": 189,
+      "sha256": "a164c56c7adad1c6e622f3552a5c560d54889ce80ea56bf85bfaa7a8d66b4cb2"
+    },
+    {
+      "path": "Team_Avengers_Methodology_Amendment.docx",
+      "bytes": 39910,
+      "sha256": "541c830e4370131de5cbdbb402c9c3b4b384513b47c6975b2d2d7792ee453130"
+    },
+    {
+      "path": "Technical_Review.md",
+      "bytes": 5595,
+      "sha256": "5caf8b8ef1817aca0fa98df43d4bd378687e50055dad856ffd9c8e2be87275b3"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 154,
+      "sha256": "7f89f5fdfe442878ef7aa67d44dd32e1bf9272fed09d4f6e377cc4debe135ea2"
+    },
+    {
+      "path": "verify_release.py",
+      "bytes": 929,
+      "sha256": "010c06085612461ae31536bf8ed7835f2126034a6184f12eb12811f16622e14d"
+    }
+  ]
+}
